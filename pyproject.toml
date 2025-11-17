@@ -1,0 +1,20 @@
+[project]
+name = "git-report"
+version = "1.0.0"
+description = "Git 提交记录智能报告生成器 - 自动将 Git 提交历史转换为专业的工作报告"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "PySide6>=6.5.0",
+    "PySide6-Fluent-Widgets>=1.6.0",
+    "gitpython>=3.1.0",
+    "requests>=2.28.0",
+    "markdown2>=2.4.0",
+    "python-dateutil>=2.8.0",
+]
+
+[project.scripts]
+git-report = "main:main"
+
+[tool.uv]
+package = false
