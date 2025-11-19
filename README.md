@@ -39,6 +39,21 @@
 - ✅ 可视化 AI 配置弹窗,支持自定义 Prompt 模板
 - ✅ Markdown 格式输出,一键复制
 
+## 📽️ 界面演示
+### 主界面
+![主界面](https://github.com/Jack724/git-report/blob/main/asserts/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+### 添加仓库
+![添加仓库](https://github.com/Jack724/git-report/blob/main/asserts/%E6%B7%BB%E5%8A%A0%E4%BB%93%E5%BA%93.png)
+### 模型配置
+![模型配置](https://github.com/Jack724/git-report/blob/main/asserts/%E6%A8%A1%E5%9E%8B%E9%85%8D%E7%BD%AE.png)
+### 日期选择
+![日期选择](https://github.com/Jack724/git-report/blob/main/asserts/%E6%97%A5%E6%9C%9F%E9%80%89%E6%8B%A9.png)
+### 拉取commit日志
+![拉取commit日志](https://github.com/Jack724/git-report/blob/main/asserts/%E6%8B%89%E5%8F%96commit%E6%97%A5%E5%BF%97.png)
+### 报告生成
+![报告生成](https://github.com/Jack724/git-report/blob/main/asserts/%E6%8A%A5%E5%91%8A%E7%94%9F%E6%88%90.png)
+
+
 ## 🚀 快速开始
 
 ### Windows 用户 (最简单)
